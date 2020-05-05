@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn and the pony and the pony2
+The Rainbow and the Unicorn and the pony and the pony2 and the pony3
 purple
 indigo
 blue
@@ -15,3 +15,4 @@ these are the colors of the poem
 and the unicorn
 Pony
 pony2
+pony3
