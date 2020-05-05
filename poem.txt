@@ -2,6 +2,7 @@ The Rainbow
 purple
 indigo
 blue
+green
 orange
 red
 
